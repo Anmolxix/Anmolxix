@@ -104,10 +104,9 @@ A route-finding web app using Dijkstra's algorithm. Ran functional, end-to-end, 
 
 <br>
 
-## GitHub activity
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anmolxix&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00C2A8" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolxix&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6C63FF" height="165" alt="Top Languages" />
 </div>
 
 <br>
