@@ -16,7 +16,7 @@
 
 I'm a final-year Computer Science student at Kathmandu University, graduating in 2026, with hands-on experience in manual, functional, and regression testing across web and mobile apps. I write test plans, design test cases, and track defects the way they're supposed to be tracked with clear steps to reproduce, expected vs. actual results, and severity, not just "it's broken."
 
-I'm comfortable working within SDLC, STLC, and Agile workflows, and I've started extending that manual foundation into automation: Selenium (Python) for UI testing, Postman for API testing. The goal isn't to replace the thinking part of QA with tooling — it's to spend less time repeating steps by hand and more time on the failures that actually need a human looking at them.
+I'm comfortable working within SDLC, STLC, and Agile workflows, and I've started extending that manual foundation into automation: building a Selenium + Pytest framework from the ground up using the Page Object Model, and testing APIs with Postman. The goal isn't to replace the thinking part of QA with tooling — it's to spend less time repeating steps by hand and more time on the failures that actually need a human looking at them.
 
 <br>
 
@@ -26,11 +26,24 @@ I'm comfortable working within SDLC, STLC, and Agile workflows, and I've started
 <tr>
 <td width="50%" valign="top">
 
-**🧪 Manual QA Project**
+**📱 Smart Darzi — Manual QA Testing**
 <br>
-Wrote structured test plans and test cases for core modules — Registration, Login, Logout, Search — covering positive, negative, and edge-case paths with Boundary Value Analysis. Tracked every defect in Jira with repro steps, severity, and resolution status.
+Full manual QA pass on a mobile app across Android and iOS — 28 test cases across 7 scenarios, covering registration, login, profile, tailor browsing, and order history. Found a critical account-lockout bug (an OTP crash that permanently locked users out) along with 3 other bugs, each logged with severity, priority, and repro steps.
+<br>
+[github.com/Anmolxix/Smart-Darzi-mobile-app-Manual-testing](https://github.com/Anmolxix/Smart-Darzi-mobile-app-Manual-testing)
 
 </td>
+<td width="50%" valign="top">
+
+**⚙️ E-Commerce Test Automation Framework**
+<br>
+A hybrid Selenium + Pytest automation framework, built around the Page Object Model. Config-driven test data, custom logging, automatic screenshots on failure, and HTML reporting. Still growing — a hands-on way of learning how real automation frameworks are structured, not just scripting individual tests.
+<br>
+[github.com/Anmolxix/E-commerece-Automation-Project](https://github.com/Anmolxix/E-commerece-Automation-Project)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🤟 Sign Language Recognition App**
@@ -40,8 +53,6 @@ A real-time hand sign detector — Flutter frontend, FastAPI ML backend. Tested 
 [github.com/Anmolxix/Real-Time-sign-language-detection-](https://github.com/Anmolxix/Real-Time-sign-language-detection-)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🗺️ Nearest Hotel Finder**
@@ -51,15 +62,12 @@ A route-finding web app using Dijkstra's algorithm. Ran functional, end-to-end, 
 [github.com/Anmolxix/Nearest-Hotel-finder-with-Ai-chat-bot-](https://github.com/Anmolxix/Nearest-Hotel-finder-with-Ai-chat-bot-)
 
 </td>
-<td width="50%" valign="top">
-
-**☁️ Always learning**
-<br>
-Completed AWS Cloud Practitioner Essentials, and currently deepening my automation skills with Selenium + pytest and going further into API testing with Postman — status codes, environments, chained requests.
-
-</td>
 </tr>
 </table>
+
+<br>
+
+**☁️ Always learning:** AWS Cloud Practitioner Essentials, deepening Selenium + Pytest framework design, and going further into API testing with Postman — status codes, environments, and chained requests.
 
 <br>
 
@@ -79,6 +87,7 @@ Completed AWS Cloud Practitioner Essentials, and currently deepening my automati
 **Automation & API**
 <br><br>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
