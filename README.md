@@ -26,7 +26,7 @@ I'm comfortable working within SDLC, STLC, and Agile workflows, and I've started
 <tr>
 <td width="50%" valign="top">
 
-**📱 Smart Darzi — Manual QA Testing**
+** Smart Darzi — Manual QA Testing**
 <br>
 Full manual QA pass on a mobile app across Android and iOS — 28 test cases across 7 scenarios, covering registration, login, profile, tailor browsing, and order history. Found a critical account-lockout bug (an OTP crash that permanently locked users out) along with 3 other bugs, each logged with severity, priority, and repro steps.
 <br>
@@ -35,7 +35,7 @@ Full manual QA pass on a mobile app across Android and iOS — 28 test cases acr
 </td>
 <td width="50%" valign="top">
 
-**⚙️ E-Commerce Test Automation Framework**
+** E-Commerce Test Automation Framework**
 <br>
 A hybrid Selenium + Pytest automation framework, built around the Page Object Model. Config-driven test data, custom logging, automatic screenshots on failure, and HTML reporting. Still growing — a hands-on way of learning how real automation frameworks are structured, not just scripting individual tests.
 <br>
@@ -46,7 +46,7 @@ A hybrid Selenium + Pytest automation framework, built around the Page Object Mo
 <tr>
 <td width="50%" valign="top">
 
-**🤟 Sign Language Recognition App**
+** Sign Language Recognition App**
 <br>
 A real-time hand sign detector — Flutter frontend, FastAPI ML backend. Tested model accuracy across lighting conditions, hand angles, and image quality, then documented findings as structured functional and edge-case test cases.
 <br>
@@ -55,7 +55,7 @@ A real-time hand sign detector — Flutter frontend, FastAPI ML backend. Tested 
 </td>
 <td width="50%" valign="top">
 
-**🗺️ Nearest Hotel Finder**
+** Nearest Hotel Finder**
 <br>
 A route-finding web app using Dijkstra's algorithm. Ran functional, end-to-end, and regression testing across search, routing, and auth — including edge cases like invalid input and isolated map nodes — then re-verified every fix.
 <br>
